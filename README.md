@@ -152,18 +152,38 @@
 | 428  |       dashidai       |         大时代          |       徐子崴        | 2:13 |  128   |  2 4 7 2 4 7 2 4 7   |    451 682 1125 451 682 1125 451 682 1125    |
 | 429  |       friend20       |       神秘歌曲26        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
 | 437  | duoyuandouyaozaiyiqi |     多远都要在一起      |       邓紫棋        | 2:32 |  136   |  2 4 6 2 4 6 2 4 6   |    428 878 1610 428 878 1605 429 878 1605    |
+| 440  |       friend21       |       神秘歌曲28        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
+| 441  |      cainimei02      |       神秘歌曲27        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
+| 442  |       friend22       |       神秘歌曲31        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
+| 443  |       friend23       |       神秘歌曲34        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
+| 444  |       friend24       |       神秘歌曲35        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
 | 445  |      cainimei03      |       神秘歌曲30        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
-| 447  |      cainimei02      |       神秘歌曲27        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
+| 446  |       friend25       |       神秘歌曲33        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
+| 447  |       friend26       |       神秘歌曲32        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
+| 448  |       friend27       |       神秘歌曲29        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
 | 450  |       bsmlbgj        |     不是猛龙不过江      |       胡彦斌        | 2:40 |  135   |  2 4 6 2 4 6 2 4 6   |    541 723 1795 541 723 1795 541 723 1795    |
+| 454  |       friend28       |       神秘歌曲36        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
+| 455  |       friend29       |       神秘歌曲37        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
+| 456  |       friend30       |       神秘歌曲42        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
+| 457  |       friend31       |       神秘歌曲38        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
+| 459  |       friend32       |       神秘歌曲39        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
 | 461  |       bxtaqgs        |     不想听爱情故事      |   赵乃吉 / High4    | 2:17 |  160   |  1 3 6 1 3 6 1 3 6   |    450 587 1053 450 587 1062 450 587 1062    |
+| 462  |       friend33       |       神秘歌曲40        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
+| 463  |       friend34       |       神秘歌曲41        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
 | 464  |      dragonsoul      |       Dragon Soul       |      谷本贵义       | 2:30 |  162   |  2 5 8 2 5 8 2 5 8   |  807 1096 1458 807 1096 1458 807 1096 1458   |
 |  ↑   |          ↑           |            ↑            |      谷本貴義       |  ↑   |   ↑    |          ↑           |                      ↑                       |
+| 470  |       friend35       |       神秘歌曲43        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
 | 472  |          fm          |           FM            |     Crayon Pop      | 2:22 |  135   |  2 4 6 2 4 6 2 4 6   |    455 591 1188 455 591 1192 455 591 1192    |
+| 473  |       friend36       |       神秘歌曲44        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
 | 474  |       friend14       |       神秘歌曲18        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
-| 477  |    accordingtoyou    |    According To you     | Orianthi Panagaris  | 2:21 |  131   |  2 4 7 2 4 7 2 4 7   |    529 727 1341 529 723 1341 529 723 1341    |
+| 477  |    accordingtoyou    |    According To You     | Orianthi Panagaris  | 2:21 |  131   |  2 4 7 2 4 7 2 4 7   |    529 727 1341 529 723 1341 529 723 1341    |
+| 480  |       friend37       |       神秘歌曲46        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
+| 481  |       friend38       |       神秘歌曲45        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
 | 482  |     fanjizhiren      |        反击之刃         |     和乐器乐团      | 2:42 |  180   |  3 6 8 3 6 8 3 6 8   |  730 1032 1775 730 1032 1782 730 1032 1782   |
 |  ↑   |          ↑           |        反撃の刃         |    和楽器バンド     |  ↑   |   ↑    |          ↑           |                      ↑                       |
 | 483  |   2differenttears    |    2 Different Tears    |    Wonder Girls     | 2:07 |  124   |  1 4 7 1 4 7 1 4 7   |    259 571 1120 259 571 1128 259 571 1128    |
+| 484  |       friend39       |       神秘歌曲47        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
+| 499  |       friend40       |       神秘歌曲48        |        佚名         |  ↓   |   ↓    |          ↓           |                      ↓                       |
 | 503  |     doyouloveme      |     DO YOU LOVE ME      |        2NE1         | 2:37 |  130   |  2 5 7 2 5 7 2 5 7   |    478 748 1399 478 748 1400 478 748 1400    |
 | 504  |     bond1ae6au1      |      Double Agent       |       WAV.AV        | 2:26 |  160   |   4KHD 10 5KHD 10    |             4KHD 1984 5KHD 2119              |
 | 508  |     blackmakeup      |      Black Make Up      |     安室奈美惠      | 2:11 |  108   |  2 4 6 2 4 6 2 4 6   |     494 573 994 494 573 994 494 573 994      |
@@ -190,55 +210,85 @@
 1. 和上面提示1和提示2一样
 2. 日译汉/韩译汉结果可能不准确
 
-| 神秘歌曲序号 |    Path     |              标题               |        艺术家        | 时间 |  BPM   |     等级      |       音符数        |         来源          |
-| :----------: | :---------: | :-----------------------------: | :------------------: | :--: | :----: | :-----------: | :-----------------: | :-------------------: |
-|      1       |  friend01   |         Parallel World          |  时空海贼SEVEN SEAS  | 2:38 |  290   |    4KNM 7     |      4KNM 2552      |                       |
-|      ↑       |      ↑      |                ↑                |  時空海賊SEVEN SEAS  |  ↑   |   ↑    |       ↑       |          ↑          |           ↑           |
-|      2       |  friend02   |           Dragon Soul           |       谷本贵义       | 2:30 |  162   |    4KNM 6     |      4KNM 1247      |        龙珠改         |
-|      ↑       |      ↑      |                ↑                |       谷本貴義       |  ↑   |   ↑    |       ↑       |          ↑          |   ドラゴンボール改    |
-|      3       |  friend03   |             Connect             |        ClariS        | 2:03 |  175   | 4KNM 5 4KHD 6 | 4KNM 1184 4KHD 1556 |     魔法少女小圆      |
-|      ↑       |      ↑      |            コネクト             |          ↑           |  ↑   |   ↑    |       ↑       |          ↑          | 魔法少女まどか☆マギカ |
-|      4       |  perfumene  |                                 |                      |      |        |               |                     |                       |
-|      5       |  friend04   |           STRIKE BACK           |       BACK-ON        | 2:38 |  180   |    4KNM 5     |      4KNM 1217      |      妖精的尾巴       |
-|      6       | blackbullet |          black bullet           |       fripSide       | 2:40 |  155   |    4KNM 6     |      4KNM 1006      |       黑色子弹        |
-|      ↑       |      ↑      |                ↑                |          ↑           |  ↑   |   ↑    |       ↑       |          ↑          |  ブラック・ブレット   |
-|      7       |             |                                 |                      |      |        |               |                     |                       |
-|      8       |  friend05   |          Trust in you           |      sweet ARMS      | 2:12 |  190   |    4KHD 8     |      4KHD 1642      |      约会大作战2      |
-|      ↑       |      ↑      |                ↑                |          ↑           |  ↑   |   ↑    |       ↑       |          ↑          |  デート・ア・ライブ2  |
-|      9       |  friend06   |            无敌的心             |       仓木麻衣       | 2:31 |  124   |    4KNM 6     |      4KNM 858       |      名侦探柯南       |
-|      ↑       |      ↑      |          無敵なハート           |       倉木麻衣       |  ↑   |   ↑    |       ↑       |          ↑          |     名探偵コナン      |
-|      10      |             |                                 |                      |      |        |               |                     |                       |
-|      11      |  friend07   |         LOVE EVOLUTION          |      西内玛利亚      | 2:27 |  154   |    4KNM 6     |      4KNM 1114      |                       |
-|      ↑       |      ↑      |                ↑                |      西内まりや      |  ↑   |   ↑    |       ↑       |          ↑          |           ↑           |
-|      12      |  friend08   |            炉心融解             |    iroha / 镜音铃    | 2:47 |  165   |    5KNM 5     |      5KNM 1079      |                       |
-|      ↑       |      ↑      |                ↑                |   iroha / 鏡音リン   |  ↑   |   ↑    |       ↑       |          ↑          |           ↑           |
-|      13      |  friend09   |          似乎非你不可           |       大石昌良       |      |        |               |                     |    月刊少女野崎君     |
-|      ↑       |      ↑      |     君じゃなきゃダメみたい      |   オーイシマサヨシ   |  ↑   |   ↑    |       ↑       |          ↑          |   月刊少女野崎くん    |
-|      14      |  friend10   |              aLIEz              |   瑞葵 / 泽野弘之    | 2:01 |   99   |    4KNM 4     |      4KNM 648       |     ALDNOAH.ZERO      |
-|      ↑       |      ↑      |                ↑                |   瑞葵 / 澤野弘之    |  ↑   |   ↑    |       ↑       |          ↑          |   アルドノア・ゼロ    |
-|      15      |  friend11   |         only my railgun         |       fripSide       | 3:01 |  143   |    4KHD 8     |      4KHD 1980      |     科学超电磁炮      |
-|      ↑       |      ↑      |                ↑                |          ↑           |  ↑   |   ↑    |       ↑       |          ↑          | とある科学の超電磁砲  |
-|      16      |  friend12   |             So Good             |         Kara         | 2:06 |  120   |    4KNM 5     |      4KNM 788       |                       |
-|      ↑       |      ↑      |          ソー・グッド           |          ↑           |  ↑   |   ↑    |       ↑       |          ↑          |           ↑           |
-|      17      |  friend13   |          Banana Shake           | Humming Urban Stereo | 2:13 |  126   |    4KNM 5     |      4KNM 784       |                       |
-|      18      |  friend14   |         Reach for Light         |      藏合纱惠子      | 2:46 |  146   |    4KHD 7     |      4KHD 1674      |      魔剑姬！通       |
-|      ↑       |      ↑      |                ↑                |      藏合紗恵子      |  ↑   |   ↑    |       ↑       |          ↑          |     マケン姫っ!通     |
-|      19      |  friend15   |             Tonight             |    Orange Caramel    | 2:11 |  128   | 4KNM 5 5KHD 7 | 4KNM 826 5KHD 1048  |                       |
-|      20      |  friend16   |         Invader Invader         |       竹村桐子       | 2:21 |  160   |    4KNM 6     |      4KNM 1412      |                       |
-|      ↑       |      ↑      |    インベーダーインベーダー     | きゃりーぱみゅぱみゅ |  ↑   |   ↑    |       ↑       |          ↑          |           ↑           |
-|      21      |  cainimei   |          Little Apple           |   T-ara / 筷子兄弟   | 2:17 |  126   |    4KHD 7     |      4KHD 1265      |                       |
-|      22      |  friend17   |           Bar Bar Bar           |      Crayon Pop      | 2:07 |  134   |    4KNM 5     |      4KNM 761       |                       |
-|      23      | cainimei01  |        Ukhli Vich Daana         |     Daler Mehndi     | 2:01 | 144.82 |    4KHD 6     |      4KHD 990       |                       |
-|      24      |  friend18   |           今天做什么            |       4minute        | 2:15 |  133   |    4KNM 4     |      4KNM 637       |                       |
-|      ↑       |      ↑      |            오늘 뭐해            |          ↑           |  ↑   |   ↑    |       ↑       |          ↑          |           ↑           |
-|      25      |  friend19   |                                 |        ELISA         | 2:47 |  129   |    4KNM 6     |      4KNM 1204      |     科学超电磁炮      |
-|      ↑       |      ↑      | Dear My Friend -まだ見ぬ未来へ- |          ↑           |  ↑   |   ↑    |       ↑       |          ↑          | ↑とある科学の超電磁砲 |
-|      26      |  friend20   |             We are!             |        北谷洋        | 2:29 |  168   |    4KNM 5     |      4KNM 1173      |        航海王         |
-|      ↑       |      ↑      |           ウィーアー!           |    きただにひろし    |  ↑   |   ↑    |       ↑       |          ↑          |       ONE PIECE       |
-|      27      | cainimei02  |          What Is Love?          |       Haddaway       | 2:42 | 123.85 |    4KHD 6     |      4KHD 870       |                       |
-|      30      | cainimei03  |               Hop               |         Azis         | 2:00 |   84   |    4KNM 5     |      4KNM 612       |                       |
-|      57      | cainimei04  |       Primetime-Sexcrime        |      Earphones       | 2:06 |  120   |    4KNM 6     |      4KNM 760       |                       |
-|      91      | cainimei05  |            Angelina             |       Lou Bega       | 2:09 |  125   |    4KNM 6     |      4KNM 603       |                       |
-|      92      | cainimei06  |               Bo                |        Elizio        | 2:21 |   83   |    4KNM 6     |      4KNM 746       |                       |
-|      93      |  friend83   |                                 |                      |      |        |               |                     |                       |
+| 神秘歌曲序号 |    Path     |              标题               |             艺术家             | 时间 |  BPM   |     等级      |       音符数        |          来源           |
+| :----------: | :---------: | :-----------------------------: | :----------------------------: | :--: | :----: | :-----------: | :-----------------: | :---------------------: |
+|      1       |  friend01   |         Parallel World          |       时空海贼SEVEN SEAS       | 2:38 |  290   |    4KNM 7     |      4KNM 2552      |                         |
+|      ↑       |      ↑      |                ↑                |       時空海賊SEVEN SEAS       |  ↑   |   ↑    |       ↑       |          ↑          |            ↑            |
+|      2       |  friend02   |           Dragon Soul           |            谷本贵义            | 2:30 |  162   |    4KNM 6     |      4KNM 1247      |         龙珠改          |
+|      ↑       |      ↑      |                ↑                |            谷本貴義            |  ↑   |   ↑    |       ↑       |          ↑          |    ドラゴンボール改     |
+|      3       |  friend03   |             Connect             |             ClariS             | 2:03 |  175   | 4KNM 5 4KHD 6 | 4KNM 1184 4KHD 1556 |      魔法少女小圆       |
+|      ↑       |      ↑      |            コネクト             |               ↑                |  ↑   |   ↑    |       ↑       |          ↑          |  魔法少女まどか☆マギカ  |
+|      4       |  perfumene  |                                 |                                |      |        |               |                     |                         |
+|      5       |  friend04   |           STRIKE BACK           |            BACK-ON             | 2:38 |  180   |    4KNM 5     |      4KNM 1217      |       妖精的尾巴        |
+|      6       | blackbullet |          black bullet           |            fripSide            | 2:40 |  155   |    4KNM 6     |      4KNM 1006      |        黑色子弹         |
+|      ↑       |      ↑      |                ↑                |               ↑                |  ↑   |   ↑    |       ↑       |          ↑          |   ブラック・ブレット    |
+|      7       |             |                                 |                                |      |        |               |                     |                         |
+|      8       |  friend05   |          Trust in you           |           sweet ARMS           | 2:12 |  190   |    4KHD 8     |      4KHD 1642      |       约会大作战2       |
+|      ↑       |      ↑      |                ↑                |               ↑                |  ↑   |   ↑    |       ↑       |          ↑          |   デート・ア・ライブ2   |
+|      9       |  friend06   |            无敌的心             |            仓木麻衣            | 2:31 |  124   |    4KNM 6     |      4KNM 858       |       名侦探柯南        |
+|      ↑       |      ↑      |          無敵なハート           |            倉木麻衣            |  ↑   |   ↑    |       ↑       |          ↑          |      名探偵コナン       |
+|      10      |             |                                 |                                |      |        |               |                     |                         |
+|      11      |  friend07   |         LOVE EVOLUTION          |           西内玛利亚           | 2:27 |  154   |    4KNM 6     |      4KNM 1114      |                         |
+|      ↑       |      ↑      |                ↑                |           西内まりや           |  ↑   |   ↑    |       ↑       |          ↑          |            ↑            |
+|      12      |  friend08   |            炉心融解             |         iroha / 镜音铃         | 2:47 |  165   |    5KNM 5     |      5KNM 1079      |                         |
+|      ↑       |      ↑      |                ↑                |        iroha / 鏡音リン        |  ↑   |   ↑    |       ↑       |          ↑          |            ↑            |
+|      13      |  friend09   |          似乎非你不可           |            大石昌良            |      |        |               |                     |     月刊少女野崎君      |
+|      ↑       |      ↑      |     君じゃなきゃダメみたい      |        オーイシマサヨシ        |  ↑   |   ↑    |       ↑       |          ↑          |    月刊少女野崎くん     |
+|      14      |  friend10   |              aLIEz              |        瑞葵 / 泽野弘之         | 2:01 |   99   |    4KNM 4     |      4KNM 648       |      ALDNOAH.ZERO       |
+|      ↑       |      ↑      |                ↑                |        瑞葵 / 澤野弘之         |  ↑   |   ↑    |       ↑       |          ↑          |    アルドノア・ゼロ     |
+|      15      |  friend11   |         only my railgun         |            fripSide            | 3:01 |  143   |    4KHD 8     |      4KHD 1980      |      科学超电磁炮       |
+|      ↑       |      ↑      |                ↑                |               ↑                |  ↑   |   ↑    |       ↑       |          ↑          |  とある科学の超電磁砲   |
+|      16      |  friend12   |             So Good             |              Kara              | 2:06 |  120   |    4KNM 5     |      4KNM 788       |                         |
+|      ↑       |      ↑      |          ソー・グッド           |               ↑                |  ↑   |   ↑    |       ↑       |          ↑          |            ↑            |
+|      17      |  friend13   |          Banana Shake           |      Humming Urban Stereo      | 2:13 |  126   |    4KNM 5     |      4KNM 784       |                         |
+|      18      |  friend14   |         Reach for Light         |           藏合纱惠子           | 2:46 |  146   |    4KHD 7     |      4KHD 1674      |       魔剑姬！通        |
+|      ↑       |      ↑      |                ↑                |           藏合紗恵子           |  ↑   |   ↑    |       ↑       |          ↑          |      マケン姫っ!通      |
+|      19      |  friend15   |             Tonight             |         Orange Caramel         | 2:11 |  128   | 4KNM 5 5KHD 7 | 4KNM 826 5KHD 1048  |                         |
+|      20      |  friend16   |         Invader Invader         |            竹村桐子            | 2:21 |  160   |    4KNM 6     |      4KNM 1412      |                         |
+|      ↑       |      ↑      |    インベーダーインベーダー     |      きゃりーぱみゅぱみゅ      |  ↑   |   ↑    |       ↑       |          ↑          |            ↑            |
+|      21      |  cainimei   |          Little Apple           |        T-ara / 筷子兄弟        | 2:17 |  126   |    4KHD 7     |      4KHD 1265      |                         |
+|      22      |  friend17   |           Bar Bar Bar           |           Crayon Pop           | 2:07 |  134   |    4KNM 5     |      4KNM 761       |                         |
+|      23      | cainimei01  |        Ukhli Vich Daana         |          Daler Mehndi          | 2:01 | 144.82 |    4KHD 6     |      4KHD 990       |                         |
+|      24      |  friend18   |           今天做什么            |            4minute             | 2:15 |  133   |    4KNM 4     |      4KNM 637       |                         |
+|      ↑       |      ↑      |            오늘 뭐해            |               ↑                |  ↑   |   ↑    |       ↑       |          ↑          |            ↑            |
+|      25      |  friend19   | Dear My Friend -朝向未知的未来- |             ELISA              | 2:47 |  129   |    4KNM 6     |      4KNM 1204      |      科学超电磁炮       |
+|      ↑       |      ↑      | Dear My Friend -まだ見ぬ未来へ- |               ↑                |  ↑   |   ↑    |       ↑       |          ↑          |  とある科学の超電磁砲   |
+|      26      |  friend20   |             We are!             |             北谷洋             | 2:29 |  168   |    4KNM 5     |      4KNM 1173      |         航海王          |
+|      ↑       |      ↑      |           ウィーアー!           |         きただにひろし         |  ↑   |   ↑    |       ↑       |          ↑          |        ONE PIECE        |
+|      27      | cainimei02  |          What Is Love?          |            Haddaway            | 2:42 | 123.85 |    4KHD 6     |      4KHD 870       |                         |
+|      28      |  friend21   |         你不知道的故事          |           supercell            | 1:56 |  165   |    4KHD 7     |      4KHD 1033      |         化物语          |
+|      ↑       |      ↑      |        君の知らない物語         |               ↑                |  ↑   |   ↑    |       ↑       |          ↑          |         化物語          |
+|      29      |  friend27   |             DAY×DAY             |          BLUE ENCOUNT          | 1:30 |  193   |    4KNM 6     |      4KNM 625       |          银魂           |
+|      ↑       |      ↑      |                ↑                |               ↑                |  ↑   |   ↑    |       ↑       |          ↑          |          銀魂           |
+|      30      | cainimei03  |               Hop               |              Azis              | 2:00 |   84   |    4KNM 5     |      4KNM 612       |                         |
+|      31      |  friend22   |        Koko Soko (Remix)        |            Smile.DK            | 2:12 |  152   |    4KHD 7     |      4KHD 1048      |                         |
+|      32      |  friend26   |        太阳说燃烧吧混沌         |          后方潜行队G           | 2:29 |  143   |    4KNM 7     |      4KNM 1203      |     潜行吧！奈亚子      |
+|      ↑       |      ↑      |      太陽曰く燃えよカオス       |      後ろから這いより隊G       |  ↑   |   ↑    |       ↑       |          ↑          |  這いよる！ニャルアニ   |
+|      33      |  friend25   |            白金Disco            |            井口裕香            | 2:31 |  117   |    4KNM 6     |      4KNM 1041      |         伪物语          |
+|      ↑       |      ↑      |          白金ディスコ           |               ↑                |  ↑   |   ↑    |       ↑       |          ↑          |         偽物語          |
+|      34      |  friend23   |              again              |              YUI               | 1:51 | 140.06 |    4KNM 6     |      4KNM 701       |      钢之炼金术师       |
+|      ↑       |      ↑      |                ↑                |               ↑                |  ↑   |   ↑    |       ↑       |          ↑          |      鋼の錬金術師       |
+|      35      |  friend24   |            Immortals            |          Fall Out Boy          | 2:06 |  108   |    4KNM 5     |      4KNM 866       |       超能陆战队        |
+|      36      |  friend28   |               LUV               |             Apink              | 2:00 |  104   |    4KNM 5     |      4KNM 703       |                         |
+|      37      |  friend29   |             The Fox             |             Ylvis              | 2:18 |  128   |    4KNM 6     |      4KNM 995       |                         |
+|      38      |  friend31   |     旋转吧！雪月花 (Remix)      |   原田瞳 / 茅野爱衣 / 小仓唯   | 2:52 |  145   |    5KHD 8     |      5KHD 1617      |    机巧少女不会受伤     |
+|      ↑       |      ↑      |      回レ！雪月花 (Remix)       | 原田ひとみ / 茅野愛衣 / 小倉唯 |  ↑   |   ↑    |       ↑       |          ↑          |  機巧少女は傷つかない   |
+|      39      |  friend32   |          雷炎龙的咆哮           |            高梨康治            | 2:07 |  160   |    4KNM 7     |      4KNM 1277      |       妖精的尾巴        |
+|      ↑       |      ↑      |          雷炎竜吼える           |               ↑                |  ↑   |   ↑    |       ↑       |          ↑          |            ↑            |
+|      40      |  friend33   |             雪月花              |              GUMI              | 3:26 |  180   |    4KHD 9     |      4KHD 2704      |                         |
+|      41      |  friend34   |              Girls              |             MARiA              | 2:37 |  128   |    4KNM 6     |      4KNM 998       |                         |
+|      42      |  friend30   |          Dream Fighter          |            Perfume             | 3:03 |  135   |    4KHD 8     |      4KHD 1634      |                         |
+|      43      |  friend35   |         像我一样做做看          |         Orange Caramel         | 2:23 |  129   |    4KNM 5     |      4KNM 904       |                         |
+|      ↑       |      ↑      |          나처럼 해봐요          |               ↑                |  ↑   |   ↑    |       ↑       |          ↑          |            ↑            |
+|      44      |  friend36   |          Emerald Sword          |        Rhapsody of Fire        | 2:54 |  180   |    5KHD 9     |      5KHD 2552      |                         |
+|      45      |  friend38   |            Love Bird            |              M2U               | 3:00 |  130   |    4KNM 6     |      4KNM 1049      |                         |
+|      46      |  friend37   |       Genocide Saw Heaven       |            南条爱乃            | 2:18 |  156   |    4KHD 8     |      4KHD 1483      |  战姬绝唱SYMPHOGEAR GX  |
+|      ↑       |      ↑      |    ジェノサイドソウ・ヘヴン     |            南條愛乃            |  ↑   |   ↑    |       ↑       |          ↑          | 戦姫絶唱シンフォギア GX |
+|      47      |  friend39   |         饶舌Scandalous          |            茅野爱衣            | 2:34 |  160   |    4KNM 5     |      4KNM 1124      |   路人女主的养成方法    |
+|      ↑       |      ↑      |       饒舌スキャンダラス        |            茅野愛衣            |  ↑   |   ↑    |       ↑       |          ↑          | 冴えない彼女の育てかた  |
+|      48      |  friend40   |     I Knew You Were Trouble     |          Taylor Swift          | 2:28 |  154   |    5KHD 7     |      5KHD 1929      |                         |
+|      57      | cainimei04  |       Primetime-Sexcrime        |           Earphones            | 2:06 |  120   |    4KNM 6     |      4KNM 760       |                         |
+|      91      | cainimei05  |            Angelina             |            Lou Bega            | 2:09 |  125   |    4KNM 6     |      4KNM 603       |                         |
+|      92      | cainimei06  |               Bo                |             Elizio             | 2:21 |   83   |    4KNM 6     |      4KNM 746       |                         |
+|      93      |  friend83   |                                 |                                |      |        |               |                     |                         |
 
