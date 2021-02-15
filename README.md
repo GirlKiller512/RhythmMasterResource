@@ -6,15 +6,23 @@
 
 仓库施工中
 
-目前包含mrock_song_client_android.xml文件，音乐及对应的封面和谱面文件
 
 
-
-**施工进度：**
+**施工进度**
 
 - 音乐（含神秘歌曲）：**220/582**
 
 - 神秘歌曲：**91/94**
+
+
+
+**包含内容**
+
+- 音乐及对应的封面和谱面文件
+
+- mrock_song_client_android.bin/xml
+
+- MD5List.xml
 
 
 
