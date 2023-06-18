@@ -24,7 +24,7 @@
 
 1. 信息来自 mrock_song_client_android.xml 文件，录入时可能会有改动
 
-2. 时间、BPM和音符数由程序计算，并非依照 mrock_song_client_android.xml 文件来录入
+2. 时间、BPM 和音符数由程序计算，并非依照 mrock_song_client_android.xml 文件来录入
 
 3. 除非特别说明，等级和音符数内容按照以下顺序排列，以空格作为分隔符：
 
@@ -656,6 +656,7 @@
 |      4       |  perfumene   |               Nee               |                   Perfume                   | 2:31 |  128   |        4KNM 6        |           4KNM 791           |           甜甜私房猫3           |
 |      ↑       |      ↑       |              ねぇ               |                      ↑                      |  ↑   |   ↑    |          ↑           |              ↑               | こねこのチー ポンポンらー大冒険 |
 |      5       |   friend04   |           STRIKE BACK           |                   BACK-ON                   | 2:38 |  180   |        4KNM 5        |          4KNM 1217           |           妖精的尾巴            |
+|      ↑       |      ↑       |                ↑                |                      ↑                      |  ↑   |   ↑    |          ↑           |              ↑               |        フェアリーテイル         |
 |      6       | blackbullet  |          black bullet           |                  fripSide                   | 2:39 |  155   |        4KNM 6        |           4KNM 991           |            黑色子弹             |
 |      ↑       |      ↑       |                ↑                |                      ↑                      |  ↑   |   ↑    |          ↑           |              ↑               |       ブラック・ブレット        |
 |      7       | springoflife |         Spring of Life          |                   Perfume                   | 2:21 |  132   |        4KNM 5        |           4KNM 886           |                                 |
@@ -687,7 +688,7 @@
 |      23      |  cainimei01  |        Ukhli Vich Daana         |                Daler Mehndi                 | 2:01 | 144.82 |        4KHD 6        |           4KHD 990           |                                 |
 |      24      |   friend18   |           今天做什么            |                   4minute                   | 2:15 |  133   |        4KNM 4        |           4KNM 637           |                                 |
 |      ↑       |      ↑       |            오늘 뭐해            |                      ↑                      |  ↑   |   ↑    |          ↑           |              ↑               |                ↑                |
-|      25      |   friend19   | Dear My Friend -朝向未知的未来- |                    ELISA                    | 2:47 |  129   |        4KNM 6        |          4KNM 1204           |          科学超电磁炮           |
+|      25      |   friend19   | Dear My Friend -朝向未知的未来- |                    ELISA                    | 2:47 |  129   |        4KNM 6        |          4KNM 1204           |        某科学的超电磁炮         |
 |      ↑       |      ↑       | Dear My Friend -まだ見ぬ未来へ- |                      ↑                      |  ↑   |   ↑    |          ↑           |              ↑               |      とある科学の超電磁砲       |
 |      26      |   friend20   |             We are!             |                   北谷洋                    | 2:28 |  168   |        4KNM 5        |          4KNM 1173           |             航海王              |
 |      ↑       |      ↑       |           ウィーアー!           |               きただにひろし                |  ↑   |   ↑    |          ↑           |              ↑               |            ONE PIECE            |
@@ -710,7 +711,7 @@
 |      38      |   friend31   |     旋转吧！雪月花 (Remix)      |         原田瞳 / 茅野爱衣 / 小仓唯          | 2:52 |  145   |        5KHD 8        |          5KHD 1617           |        机巧少女不会受伤         |
 |      ↑       |      ↑       |      回レ！雪月花 (Remix)       |       原田ひとみ / 茅野愛衣 / 小倉唯        |  ↑   |   ↑    |          ↑           |              ↑               |      機巧少女は傷つかない       |
 |      39      |   friend32   |          雷炎龙的咆哮           |                  高梨康治                   | 2:07 |  160   |        4KNM 7        |          4KNM 1277           |           妖精的尾巴            |
-|      ↑       |      ↑       |          雷炎竜吼える           |                      ↑                      |  ↑   |   ↑    |          ↑           |              ↑               |                ↑                |
+|      ↑       |      ↑       |          雷炎竜吼える           |                      ↑                      |  ↑   |   ↑    |          ↑           |              ↑               |        フェアリーテイル         |
 |      40      |   friend33   |             雪月花              |                    GUMI                     | 3:26 |  180   |        4KHD 9        |          4KHD 2704           |                                 |
 |      41      |   friend34   |              Girls              |                    MARiA                    | 2:37 |  128   |        4KNM 6        |           4KNM 998           |                                 |
 |      42      |   friend30   |          Dream Fighter          |                   Perfume                   | 3:03 |  135   |        4KHD 8        |          4KHD 1634           |                                 |
@@ -725,7 +726,7 @@
 |      48      |   friend40   |     I Knew You Were Trouble     |                Taylor Swift                 | 2:28 |  154   |        5KHD 7        |          5KHD 1929           |                                 |
 |     49-1     |   friend41   |        Green Green Dance        |                  泉陆奥彦                   | 2:28 |  165   | 5KEZ 3 5KNM 6 5KHD 8 | 5KEZ 671 5KNM 1053 5KHD 1457 |           Jubeat Knit           |
 |      ↑       |      ↑       |                ↑                |                  泉陸奥彦                   |  ↑   |   ↑    |          ↑           |              ↑               |                ↑                |
-|     49-2     |   friend44   |             小幸运              |                   田馥甄                    | 3:08 |   79   |        4KNM 4        |           4KNM 599           |                                 |
+|     49-2     |   friend44   |             小幸运              |                   田馥甄                    | 3:08 |   79   |        4KNM 4        |           4KNM 599           |          我的少女时代           |
 |      50      |   friend42   |             千本樱              |                 和乐器乐团                  | 2:58 |  153   | 5KEZ 2 5KNM 5 5KHD 7 | 5KEZ 565 5KNM 1124 5KHD 1778 |                                 |
 |      ↑       |      ↑       |             千本桜              |                和楽器バンド                 |  ↑   |   ↑    |          ↑           |              ↑               |                ↑                |
 |      51      |   friend43   |              DADDY              |                     PSY                     | 2:23 |  132   |        5KHD 8        |          5KHD 1112           |                                 |
@@ -761,7 +762,7 @@
 |      ↑       |      ↑       |                ↑                |            きゃりーぱみゅぱみゅ             |  ↑   |   ↑    |          ↑           |              ↑               |                ↑                |
 |      73      |   friend65   |              Hate               |                Drowning Pool                | 2:31 |  152   |        4KHD 9        |          4KHD 1539           |                                 |
 |      74      |   friend68   |          adrenaline!!!          |                   TrySail                   | 2:46 |  134   |        4KNM 7        |          4KNM 1196           |          情色漫画老师           |
-|      ↑       |      ↑       |                ↑                |                      ↑                      |  ↑   |   ↑    |          ↑           |              ↑               |         エロマンガ先生          |
+|      ↑       |      ↑       |                ↑                |                トライセイル                 |  ↑   |   ↑    |          ↑           |              ↑               |         エロマンガ先生          |
 |      75      |   friend66   |            24K Magic            |                 Bruno Mars                  | 2:34 |  107   |        4KNM 6        |          4KNM 1069           |                                 |
 |      76      |   friend67   |           Boogie Back           |                  井上实优                   | 2:11 |  128   |        4KHD 8        |          4KHD 1073           |             龙珠超              |
 |      ↑       |      ↑       |                ↑                |                  井上実優                   |  ↑   |   ↑    |          ↑           |              ↑               |        ドラゴンボール超         |
@@ -786,6 +787,6 @@
 |      90      |   friend82   |          Jingle Bells           |                    EH!DE                    | 2:37 |  103   |        4KNM 5        |           4KNM 825           |                                 |
 |      91      |  cainimei05  |            Angelina             |                  Lou Bega                   | 2:09 |  125   |        4KNM 6        |           4KNM 603           |                                 |
 |      92      |  cainimei06  |               Bo                |                   Elizio                    | 2:21 |   83   |        4KNM 6        |           4KNM 746           |                                 |
-|      93      |   friend83   |           Polyrhythm            |                   Perfume                   | 2:11 |  128   |        4KNM 6        |           4KNM 879           |                                 |
+|      93      |   friend83   |           Polyrhythm            |                   Perfume                   | 2:11 |  128   |        4KNM 6        |           4KNM 879           |           赛车总动员2           |
 |      ↑       |      ↑       |           ポリリズム            |                      ↑                      |  ↑   |   ↑    |          ↑           |              ↑               |                ↑                |
 
